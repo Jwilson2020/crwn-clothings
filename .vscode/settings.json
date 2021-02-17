@@ -2,11 +2,16 @@
     "cSpell.ignoreWords": [
         "action",
         "cart",
+        "class",
         "const",
         "default",
+        "div",
         "export",
         "hidden",
+        "name",
+        "span",
         "toggle",
+        "total",
         "types"
     ]
 }
